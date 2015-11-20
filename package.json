@@ -1,0 +1,21 @@
+{
+  "name": "gulp-jade-example",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Yuta Shimakawa",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.1.0",
+    "gulp-webserver": "^0.9.1",
+    "jade": "^1.11.0"
+  }
+}
